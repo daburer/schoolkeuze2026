@@ -2,6 +2,8 @@
 
 Deze app simuleert de Amsterdamse loting- en matchingprocedure voor VWO-scholen, zodat je kunt zien wat je kansen zijn op plaatsing bij elke school op je voorkeurslijst, afhankelijk van je lotnummer.
 
+Dit moet je met een enorme korrel zout nemen. Model zit vol aannames omdat we maar heel beperkte en geagregeerde data hebben.
+
 ## Context: het DA-STD algoritme
 
 De Amsterdamse loting & matching werkt met het **DA-STD algoritme** (Deferred Acceptance — Single Tie-breaking):
@@ -124,4 +126,3 @@ De data komt uit `vwo_scholen.csv` — tabel 17 uit het L&M 2025 verslag. Per sc
 4. **We gebruiken cijfers uit 2025 voor 2026.** De capaciteit, populariteit en het aantal leerlingen kan volgend jaar anders zijn.
 5. **Bijzondere regels tellen niet mee.** Leerlingen met voorrang (via de Kopklas of speciaal onderwijs) en handmatige plaatsingen zijn niet meegenomen. Die nemen maximaal 2% van de plekken in.
 
-**Conclusie:** de simulatie geeft een **goede indicatie** van je kansen, maar is geen exacte voorspelling. Gebruik het als hulpmiddel bij het nadenken over je lijstvolgorde, niet als garantie.
