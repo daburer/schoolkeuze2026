@@ -126,3 +126,13 @@ De data komt uit `vwo_scholen.csv` — tabel 17 uit het L&M 2025 verslag. Per sc
 4. **We gebruiken cijfers uit 2025 voor 2026.** De capaciteit, populariteit en het aantal leerlingen kan volgend jaar anders zijn.
 5. **Bijzondere regels tellen niet mee.** Leerlingen met voorrang (via de Kopklas of speciaal onderwijs) en handmatige plaatsingen zijn niet meegenomen. Die nemen maximaal 2% van de plekken in.
 
+
+## AI-uitleg van je resultaten
+
+Snap je de grafiek niet helemaal? Na een simulatie kun je klikken op **"🤖 Vraag AI om uitleg"**. Dit opent een pagina met:
+
+- Een **kopieerbare prompt** met je voorkeurslijst, de clusterindeling, en een kansentabel bij verschillende lotnummers
+- Een **grafiek als afbeelding** die je kunt meesturen
+- Een link naar de **broncode op GitHub**, zodat de AI kan zien hoe de simulatie werkt
+
+Plak de prompt (en eventueel de afbeelding) in een AI naar keuze (ChatGPT, Claude, etc.) en vraag om uitleg over je kansen.
