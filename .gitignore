@@ -3,4 +3,6 @@ __pycache__/
 .ipynb_checkpoints/
 settings.ini
 _proc/
+*.egg-info/
+.plash
 schoolkeuze_app.ipynb
